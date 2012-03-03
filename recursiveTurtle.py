@@ -24,4 +24,4 @@ def fractal(length = 100):
     return
 
 fractal(200)
-sleep(15)
+sleep(15) # Admire the fractals
