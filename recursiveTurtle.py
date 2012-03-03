@@ -2,6 +2,7 @@
 import turtle as trtl
 from time import sleep
 
+# Draws a star
 def fractal(length = 100):
     if length < 10:
         return
