@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-import pygame # you need this
+# docs: pygame.org/docs
+import pygame # you need this installed
 from random import randrange
 MAX_STARS = 100
 pygame.init()
