@@ -48,7 +48,7 @@ class blob(pygame.sprite.Sprite):
 
 
 def main():
-    """the main game logic"""
+    """main logic"""
 #Initialise all
     pygame.mixer.pre_init(44100,-16,2, 1024)
     pygame.init()
