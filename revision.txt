@@ -1,0 +1,51 @@
+Could look at old modules CM0124 (ignore Java) & CM0166 - but be careful
+
+Revise:
+
+Definitions
+Operator precedence
+Set notation
+Special sets
+Subsets, unions, differences, power sets, ...
+Venn diagrams
+Inclusion-Exclusion
+Product + sum rules (counting + probability)
+Perms and combs & their formulas
+Fibonacci formula
+Recursion & when to use it
+Factorials
+GCD
+Principle of recursive solution Tower of Hanoi
+Simulate dice with coins
+Fisher-Yates shuffle
+Conditional probability
+Pigeonhole principle
+Python: basic variable manipulation, write a function, simple recursion
+Linear & binary search algorithms
+Performance of linear & binary search
+Idea of worst & average case performance
+Graph theory
+Handshaking lemma
+Eulerian cycles & Fleury's algorithm
+Convert between adjacency matrix & graph
+Selection sort & performance
+Work out O() notation of a given function
+
+Don't revise:
+
+Easter algorithm
+Doctest
+Square root algorithm
+Sets in Python
+"Some set properties"
+Perms & combs in Python
+Derivation of Fibonacci formula
+Not the iterative or analytic Fibonacci 
+Why Fibonacci interesting
+Random numbers in Python
+Graphs in Python
+Minimum spanning trees
+Prims algorithm
+Merge sort
+Formal definitions of complexity
+SCAN & STOR

@@ -1,0 +1,23 @@
+Q What is 43 * 3?
+A 129
+Q What is square root of 255?
+A 15
+Q What is 153 decimal in binary?
+A 10011001
+Q 1 1 2 3 5 8 _ ?
+A 13
+Q Which city was formerly known as Bombay?
+A Mumbai
+Q What continent is Turkey in?
+A Asia
+Q Who discovered radium?
+A Marie Curie
+Q Who first created dynamite?
+A Alfred Nobel
+Q What do cows drink?
+A Milk
+A Water
+A Lucozade
+A Whiskey
+Q Why are we here?
+A Because
